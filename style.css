@@ -1,0 +1,31 @@
+body{background:lightblue;}
+
+.contant-form{
+	width:90%;
+	margin:10px 50px;
+	border-radius:5px;
+	padding:20px;
+	background:#96bb72;
+		}
+
+.class{
+	width:100%;
+	padding:12px 20px;
+	margin:8px 0px;
+	display:inline-block;
+	border-radius:4px;
+	border:1px solid #ccc;
+	box-sizing:border-box;
+	cursor:pointer;
+		}
+
+input[type=submit]{
+	width:100%;
+	background:purple;
+ 	color:white;
+	margin:8px px;
+	padding:14px 10px;
+	border-radius:4px;
+	cursor:pointer;}
+
+input[type=submit]:hover{background:#000}
